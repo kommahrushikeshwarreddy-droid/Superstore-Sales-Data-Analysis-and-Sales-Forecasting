@@ -1,0 +1,1 @@
+“Superstore Sales Data Analysis and Sales Forecasting explores historical retail transactions to uncover trends by product, region, and customer segment, then builds models to predict future sales, helping businesses plan inventory, marketing, and revenue strategies more accurately.”machine‑learning models to predict future demand and revenue,
